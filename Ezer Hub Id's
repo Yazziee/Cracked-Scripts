@@ -1,9 +1,1 @@
-local Old = nil
 
-Old = hookfunction(game.HttpGet, function(self, url, ...)
-	if url == "https://raw.githubusercontent.com/Sanslul/Whitelist/main/Whitelist.lua" then
-		url = 
-	end
-end)
-
-url = "yourgithuburltocrackedwhitelistshit"
